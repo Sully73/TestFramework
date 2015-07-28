@@ -12,4 +12,4 @@ struct Person {
     init(name: String) {
         self.name = name
     }
-}
+} 
